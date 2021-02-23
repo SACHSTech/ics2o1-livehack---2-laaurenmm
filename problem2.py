@@ -1,6 +1,6 @@
 """
 Name:       problem1.py
-Description:    The program allows a user to input three side lengths. The program will compute and output whether or not the figure is a triangle. 
+Description:    The program allows a user to input three side lengths. The program will compute and output whether or not the figure is a triangle.
 
 Author:         Lauren M
 
